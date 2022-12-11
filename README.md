@@ -1,6 +1,6 @@
-## FOOD ORDERING SYSTEM
-# Color Test Document
+ ## <span style="color: red;">FOOD ORDERING SYSTEM</span>
 
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
+This application enables restaurants to complete all tasks more quickly and accurately. This system assists in keeping daily records for food orders.
+
+## FUNCTIONS
+
